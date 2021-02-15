@@ -1,0 +1,29 @@
+
+.display-box{
+    border:5px solid black;
+    border-radius: 1%;
+    width: 900px;
+    color:blue;
+    margin-left:325px;
+    align-content: flex-start;
+}
+
+h1{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    padding:2px;
+}
+
+span{
+    text-align:left;
+    margin-left:5rem;
+    margin-right:5rem;
+
+}
